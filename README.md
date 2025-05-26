@@ -138,42 +138,7 @@ const aditi = {
 
 ---
 
-<style>
-  .github-box {
-    background: #f1f1f1;
-    border-radius: 20px;
-    padding: 25px;
-    margin-top: 40px;
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
-    animation: fadeInUp 1s ease-in-out;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
 
-  .github-box:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
-  }
-
-  .github-link {
-    display: inline-block;
-    margin-top: 10px;
-    padding: 12px 25px;
-    background-color: #24292e;
-    color: #fff;
-    border-radius: 8px;
-    text-decoration: none;
-    font-weight: bold;
-    transition: background-color 0.3s ease;
-  }
-
-  .github-link:hover {
-    background-color: #000;
-  }
-</style>
 
 <div class="github-box">
   <h3>💻 Check Out My GitHub</h3>
@@ -191,7 +156,6 @@ const aditi = {
 
 <div align="center">
 
-```ascii
     ╔══════════════════════════════════════╗
     ║  🎯 Goals for 2024                   ║
     ║  ✅ Master TypeScript                ║
@@ -200,7 +164,6 @@ const aditi = {
     ║  ✅ Build 10+ Projects               ║
     ║  ✅ Start Tech Blog         ║
     ╚══════════════════════════════════════╝
-```
 
 
 <picture>
